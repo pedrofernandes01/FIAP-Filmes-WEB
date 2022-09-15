@@ -38,10 +38,6 @@ header{
     font-size: 3rem;
 }
 
-.espaco-sobre{
-    padding-left: 70rem;
-  }
-
 nav{
     display: flex;
     align-items: flex-end;
